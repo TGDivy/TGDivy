@@ -16,10 +16,12 @@ When I'm not working you can find me roaming around Edinburgh, meeting new peopl
   - [E-mail](mailto:divy.work@outlook.com)
   - [Linkedin](https://linkedin.com/in/divy-bramhecha)
 
-![GitHub stars](https://img.shields.io/github/stars/TGDivy/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TGDivy/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/TGDivy/REPOSITORY?style=social)
+![GitHub stars](https://img.shields.io/github/stars/TGDivy/TGDivy?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TGDivy/TGDivy?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/TGDivy/TGDivy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
+
+https://github-readme-streak-stats.herokuapp.com/?user={username}
 
 <!--
 **TGDivy/TGDivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
