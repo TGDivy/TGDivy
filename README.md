@@ -21,7 +21,7 @@ When I'm not working you can find me roaming around Edinburgh, meeting new peopl
 ![GitHub watchers](https://img.shields.io/github/watchers/TGDivy/TGDivy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy" />
+<img width='600' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy" />
 
 <!--
 **TGDivy/TGDivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
