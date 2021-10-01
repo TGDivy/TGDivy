@@ -19,7 +19,7 @@ When I'm not working you can find me roaming around Edinburgh, meeting new peopl
 ![GitHub stars](https://img.shields.io/github/stars/TGDivy/TGDivy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=TGDivy&repo=github-visitors-badge&countColor=%237B1E7A)
 <img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy" />
 
 <!--
