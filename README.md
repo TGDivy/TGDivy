@@ -17,11 +17,10 @@ When I'm not working you can find me roaming around Edinburgh, meeting new peopl
   - [Linkedin](https://linkedin.com/in/divy-bramhecha)
 
 ![GitHub stars](https://img.shields.io/github/stars/TGDivy/TGDivy?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TGDivy/TGDivy?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/TGDivy/TGDivy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
-<img width='600' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy" />
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+<img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy" />
 
 <!--
 **TGDivy/TGDivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
