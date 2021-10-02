@@ -23,6 +23,8 @@ I'm also love working on random but interesting projects which you can check out
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=TGDivy&repo=github-visitors-badge&countColor=%237B1E7A)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TGDivy.visitor-badge.issue.1&left_color=green&right_color=red)
+
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
 <!--
