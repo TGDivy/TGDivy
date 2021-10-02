@@ -25,8 +25,6 @@ I'm also love working on random but interesting projects which you can check out
 
 ![Divy's github stats](https://github-readme-stats.vercel.app/api?username=TGDivy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TGDivy.visitor-badge.issue.1)
-
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
 <!--
