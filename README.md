@@ -23,9 +23,9 @@ I'm also love working on random but interesting projects which you can check out
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=TGDivy&repo=github-visitors-badge&countColor=%237B1E7A)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=TGDivy&repo=TGDivy)](https://github.com/TGDivy/TGDivy)
+![Divy's github stats](https://github-readme-stats.vercel.app/api?username=TGDivy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TGDivy.visitor-badge.issue.1&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TGDivy.visitor-badge.issue.1)
 
 ![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
