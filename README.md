@@ -17,9 +17,11 @@ I'm also love working on random but interesting projects which you can check out
   - [E-mail](mailto:divy.work@outlook.com)
   - [Linkedin](https://linkedin.com/in/divy-bramhecha)
 
-![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
+##
+
 <img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy"/>
 ![](https://api.visitorbadge.io/api/VisitorHit?user=TGDivy&repo=github-visitors-badge&countColor=%237B1E7A)
+![GitHub followers](https://img.shields.io/github/followers/TGDivy?style=social)
 
 <!--
 **TGDivy/TGDivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
