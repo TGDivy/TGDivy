@@ -19,7 +19,7 @@ I'm also love working on random but interesting projects which you can check out
 
 ##
 
-<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy"/>
+<img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=TGDivy"/>
 
 ![Divy's github stats](https://github-readme-stats.vercel.app/api?username=TGDivy)
 
