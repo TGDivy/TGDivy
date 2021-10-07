@@ -17,7 +17,7 @@ I'm also love working on random but interesting projects which you can check out
 <details>
   <summary> 📫 How to reach me </summary>
   
-  - [My website](https://)
+  - [My website](https://tgdivy.github.io/)
   - [E-mail](mailto:divy.work@outlook.com)
   - [Linkedin](https://linkedin.com/in/divy-bramhecha)
 
