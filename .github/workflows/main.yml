@@ -32,7 +32,7 @@ jobs:
         run: |
           rm -r date.txt
           touch date.txt
-          echo 'Today's date! ${date}' >> date.txt
+          echo "Today's date! ${date}" >> date.txt
           git add .
           git commit -m "[date update]"
           git push
