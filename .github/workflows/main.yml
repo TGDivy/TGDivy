@@ -39,5 +39,5 @@ jobs:
           python RandomQuote.py >> README.md
 
           git add .
-          git commit -m "[date update]"
+          git commit -m "[Quote Update Job]"
           git push
