@@ -6,7 +6,7 @@ name: Chron Job
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   schedule:
-    - cron:  '*/60 5 * * *'    # At every 15th minute
+    - cron: "*/60 5 * * *" # At every 15th minute
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,6 +32,12 @@ jobs:
           touch date.txt
           now=$(date +"%T")
           echo "Current time : $now" >> date.txt
+
+          rm -r README.md
+          touch README.md
+          pip install -r requirements.txt
+          python RandomQuote.py >> README.md
+
           git add .
           git commit -m "[date update]"
           git push
