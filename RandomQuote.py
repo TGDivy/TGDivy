@@ -16,11 +16,11 @@ def get_random_quote():
             data = json_data["data"]
 
             ## getting the quote from the data
-            print(data[0]["quoteText"])
+            print(">", data[0]["quoteText"])
         else:
-            print("Error while getting quote")
+            print("> Error while getting quote")
     except:
-        print("Something went wrong! Try Again!")
+        print("> Something went wrong! Try Again!")
 
 
 get_random_quote()
