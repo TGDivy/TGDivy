@@ -1,3 +1,3 @@
 # Quote of the Day
 *Using GitHub Actions Chron Job*
-> I never got the opportunity to be romantic or feel romantic with anyone. ~ Gary Coleman
+> Any romantic feelings for a 12-year-old are like entering into a fantasy world. ~ Wes Anderson
