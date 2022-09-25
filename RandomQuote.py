@@ -22,7 +22,10 @@ def get_random_quote():
     author = data[0]["a"]
 
     print("# Quote of the Day ")
-    print("*Using GitHub Actions Chron Job*")
+    print(
+        "*Using GitHub Actions Chron Job and*",
+        "[Zen Quotes API]( https://zenquotes.io/ )",
+    )
     print(f"> {quote} ~ {author}")
 
 
