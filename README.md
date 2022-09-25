@@ -1,5 +1,3 @@
-# Quote of the Day
-
-_Using GitHub Actions Chron Job_
-
-> None are more hopelessly enslaved than those who falsely believe they are free. ~ Johann Wolfgang von Goethe
+# Quote of the Day 
+*Using GitHub Actions Chron Job*
+> This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. ~ Alan Watts
