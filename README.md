@@ -1,3 +1,3 @@
 # Quote of the Day
 *Using GitHub Actions Chron Job*
-> Any romantic feelings for a 12-year-old are like entering into a fantasy world. ~ Wes Anderson
+> None are more hopelessly enslaved than those who falsely believe they are free. ~ Johann Wolfgang von Goethe
