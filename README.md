@@ -1,3 +1,3 @@
 # Quote of the Day 
 *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
-> Remember, today is the tomorrow you worried about yesterday. ~ Dale Carnegie
+> A tiger doesn't lose sleep over the opinion of sheep. ~ Shahir Zag
