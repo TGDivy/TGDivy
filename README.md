@@ -1,3 +1,3 @@
 # Quote of the Day 
 *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
-> The more we value things, the less we value ourselves.   ~ Bruce Lee
+> Eighty percent of success is showing up.  ~ Woody Allen
