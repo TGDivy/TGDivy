@@ -1,3 +1,3 @@
 # Quote of the Day 
 *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
-> Luck is a matter of preparation meeting opportunity. ~ Oprah Winfrey
+> You'll get more from being a peacemaker than a warrior. ~ Arnold Schwarzenegger
