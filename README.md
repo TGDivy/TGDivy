@@ -1,3 +1,3 @@
 # Quote of the Day 
 *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
-> When the world pushes you to your knees, you're in the perfect position to pray. ~ Rumi
+> Most people spend more time and energy going around problems than in trying to solve them.  ~ Henry Ford
