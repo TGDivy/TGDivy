@@ -1,3 +1,3 @@
 # Quote of the Day 
 *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
-> Most people spend more time and energy going around problems than in trying to solve them.  ~ Henry Ford
+> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. ~ Dr. Seuss
