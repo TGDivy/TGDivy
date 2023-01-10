@@ -8,8 +8,7 @@
 
 ## Quote of the Day
 
-> The most creative act you will eve
-
+> A man who dares to waste one hour of time has not discovered the value of life. ~ Charles Darwin
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
 ## Engineering Projects 🛠️
