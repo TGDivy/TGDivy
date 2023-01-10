@@ -16,7 +16,7 @@ Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io
 
 Title     | Description | Technologies
 :-----------------------------:|:-----------------------------:|:-----------------------------:|
-[Grow]([Demo/Environment.drawio.png](https://github.com/TGDivy/Grow#readme)) | A web app that combines task management, timer/stopwatch functionality, a journal, and habit tracking, seamlessly integrating these features for an all-in-one productivity solution."| Typescript, React, MUI, Firebase
+[Grow]([Demo/Environment.drawio.png](https://github.com/TGDivy/Grow#readme)) | A web app that combines task management, timer/stopwatch functionality, a journal, and habit tracking, seamlessly integrating these features for an all-in-one productivity solution.| Typescript, React, MUI, Firebase
 [Bank Transaction - Round up](https://github.com/TGDivy/Banking#readme)|A full stack web app that utilizes the Starling API to enable users to create and manage savings goals, round up their purchases, and track their spending and savings in real time.| Java, Spring Boot, Gson, Typescript, React, MUI, Starling API
 [Poems Web Scraper](https://github.com/TGDivy/WebScrapping-PoetryFoundation#readme) | A Python web scraping project to create a dataset of poems and related information from the Poetry Foundation for use in NLP tasks. | Python, BeautifulSoup, Selenium, Pandas, Numpy
 
