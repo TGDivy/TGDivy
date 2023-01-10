@@ -9,7 +9,7 @@
 
 ## Quote of the Day
 
-> The most creative act you will ever undertake is the act of creating yourself. ~ Deepak Chopra
+> The most creative act you will eve
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
