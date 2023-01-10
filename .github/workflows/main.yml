@@ -33,8 +33,6 @@ jobs:
           now=$(date +"%T")
           echo "Current time : $now" >> date.txt
 
-          rm -r README.md
-          touch README.md
           pip install -r requirements.txt
           python RandomQuote.py
 
