@@ -21,12 +21,31 @@ def get_random_quote():
     quote = data[0]["q"]
     author = data[0]["a"]
 
-    print("# Quote of the Day ")
-    print(
-        "*Using GitHub Actions Chron Job and*",
-        "[Zen Quotes API]( https://zenquotes.io/ )",
-    )
-    print(f"> {quote} ~ {author}")
+    return f"> {quote} ~ {author}"
 
 
-get_random_quote()
+def read_readme():
+    # read the README.md file
+    with open("README.md", "r") as f:
+        lines = f.readlines()
+    return lines
+
+
+def replace_quote(quote):
+    # replace the quote in the README.md file
+    lines = read_readme()
+
+    # find the line with the quote, it starts with "> "
+    for i, line in enumerate(lines):
+        if line.startswith("> "):
+            lines[i] = quote
+            break
+
+    # write the new README.md file
+    with open("README.md", "w") as f:
+        f.writelines(lines)
+
+
+if __name__ == "__main__":
+    quote = get_random_quote()
+    replace_quote(quote)

@@ -36,7 +36,7 @@ jobs:
           rm -r README.md
           touch README.md
           pip install -r requirements.txt
-          python RandomQuote.py >> README.md
+          python RandomQuote.py
 
           git add .
           git commit -m "[Quote Update Job]"
