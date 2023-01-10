@@ -21,7 +21,7 @@ def get_random_quote():
     quote = data[0]["q"]
     author = data[0]["a"]
 
-    return f"> {quote} ~ {author}"
+    return f"> {quote} ~ {author}\n"
 
 
 def read_readme():
