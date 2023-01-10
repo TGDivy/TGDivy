@@ -1,18 +1,18 @@
 <!-- Use emoji -->
-# Hey all 👋
+# Hiya 👋, I'm Divy
 
 - I'm a software engineer with a passion for problem-solving and creating scalable solutions.
 - Interested in building generalizable solutions to scaleable problems.
   - Which is also what drives me to use artificial intelligence to make a positive impact on the world.
 - Currently honing software engineering skills with the goal of eventually transitioning back to AI engineering and research.
 
-## Quote of the Day
+## 💬🌞
 
 > A man who dares to waste one hour of time has not discovered the value of life. ~ Charles Darwin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
-## Engineering Projects 🛠️
+## 🔧⚙️🛠️
 
 Title     | Description | Technologies
 :-----------------------------:|:-----------------------------:|:-----------------------------:|
@@ -20,14 +20,14 @@ Title     | Description | Technologies
 [Bank Transaction - Round up](https://github.com/TGDivy/Banking#readme)|A full stack web app that utilizes the Starling API to enable users to create and manage savings goals, round up their purchases, and track their spending and savings in real time.| Java, Spring Boot, Gson, Typescript, React, MUI, Starling API
 [Poems Web Scraper](https://github.com/TGDivy/WebScrapping-PoetryFoundation#readme) | A Python web scraping project to create a dataset of poems and related information from the Poetry Foundation for use in NLP tasks. | Python, BeautifulSoup, Selenium, Pandas, Numpy
 
-## Research Projects
+## 🧑🔬🧪
 
 Title     | Description
 :-----------------------------:|:-----------------------------:|
 [Language Evolution - The Need to Communicate](https://github.com/TGDivy/Language-Evolution#readme) | A study on the evolution of compositional language in artificial agents through task-based iterated learning, providing insights into natural language processing, human-agent collaboration, and the evolution of language and cognition.
 [Towards Semi Supervised Named Entity Recognition](https://github.com/TGDivy/Towards-unlabelled-Entity-Detection#readme) | A named entity recognition model that uses confidence scores to identify potential entities and generate labels for downstream tasks, with the flexibility to finetune to specific domains and user preferences.
 
-## 📫 How to reach me
+## 📫
 
 - [LinkedIn](https://www.linkedin.com/in/divy-bramhehca/)
 - [Email](mailto:me@divyb.xyz)
