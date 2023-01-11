@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> A man who dares to waste one hour of time has not discovered the value of life. ~ Charles Darwin
+> Yesterday is gone. Tomorrow has not yet come. We have only today. ~ Mother Teresa
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
