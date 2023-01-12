@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Yesterday is gone. Tomorrow has not yet come. We have only today. ~ Mother Teresa
+> Presents are made for the pleasure of who gives them, not the merits of who receives them. ~ Carlos Ruiz Zafon
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
