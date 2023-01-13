@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Presents are made for the pleasure of who gives them, not the merits of who receives them. ~ Carlos Ruiz Zafon
+> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. ~ Stephen King
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
