@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You're always free to change your mind and choose a different future, or a different past. ~ Richard Bach
+> To do two things at once is to do neither. ~ Publilius Syrus
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
