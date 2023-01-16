@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> To do two things at once is to do neither. ~ Publilius Syrus
+> The goal is not to be perfect by the end, the goal is to be better today. ~ Simon Sinek
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
