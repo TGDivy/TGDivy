@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The goal is not to be perfect by the end, the goal is to be better today. ~ Simon Sinek
+> Silence is a source of great strength. ~ Lao Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
