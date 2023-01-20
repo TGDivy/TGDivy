@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> It's better to dance than to march through life. ~ Yoko Ono
+> Outstanding people have one thing in common: an absolute sense of mission.   ~ Zig Ziglar
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
