@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The friendship that can cease has never been real.  ~ St. Jerome
+> You need to be doing fewer things for more effect instead of doing more things with side effects. ~ Gary Keller
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
