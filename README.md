@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> If the happiness and prosperity of other people depend on you, you have nothing to fear anymore. ~ Robert Greene
+> The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. ~ Josh Waitzkin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
