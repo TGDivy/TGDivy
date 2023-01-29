@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. ~ Steve Maraboli
+> Silence is a source of great strength. ~ Lao Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
