@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Silence is a source of great strength. ~ Lao Tzu
+> Your only obligation in any lifetime is to be true to yourself. ~ Richard Bach
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
