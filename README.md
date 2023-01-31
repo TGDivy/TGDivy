@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Your only obligation in any lifetime is to be true to yourself. ~ Richard Bach
+> Know yourself and you will win all battles. ~ Sun Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
