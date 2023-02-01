@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Know yourself and you will win all battles. ~ Sun Tzu
+> What you get by achieving your goals is not as important as what you become by achieving your goals. ~ Henry David Thoreau
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
