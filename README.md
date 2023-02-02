@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals. ~ Henry David Thoreau
+> No one can hurt you without your consent. ~ Eleanor Roosevelt
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
