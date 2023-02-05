@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The more knowledge you have, the more you're free to rely on your instincts. ~ Arnold Schwarzenegger
+> There is a wisdom of the head, and there is a wisdom of the heart. ~ Charles Dickens
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
