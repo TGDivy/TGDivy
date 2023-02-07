@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be happy now, without reason - or you never will be at all. ~ Dan Millman
+> Create each day anew. ~ Morihei Ueshiba
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
