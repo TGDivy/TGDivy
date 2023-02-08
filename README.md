@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Create each day anew. ~ Morihei Ueshiba
+> Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. ~ Colin Powell
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
