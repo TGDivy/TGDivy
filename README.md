@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> All great truths begin as blasphemies. ~ George Bernard Shaw
+> Man's character is his fate. ~ Heraclitus
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
