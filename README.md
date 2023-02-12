@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Man's character is his fate. ~ Heraclitus
+> We are all self-made, but only the successful will admit it. ~ Earl Nightingale
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
