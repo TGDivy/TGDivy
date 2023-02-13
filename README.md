@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> We are all self-made, but only the successful will admit it. ~ Earl Nightingale
+> All leaders are readers. ~ Jim Rohn
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
