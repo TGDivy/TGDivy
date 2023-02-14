@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> All leaders are readers. ~ Jim Rohn
+> Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. ~ Jonathan Swift
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
