@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> If a thing is worth doing, it is worth doing badly. ~ Gilbert Chesterton
+> We are all born ignorant, but one must work hard to remain stupid. ~ Benjamin Franklin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
