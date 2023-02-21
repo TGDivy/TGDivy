@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach. ~ Benjamin Mays
+> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. ~ Ronald Reagan
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
