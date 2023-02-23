@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> To a mind that is still, the entire universe surrenders. ~ Zhuangzi
+> Children are our greatest natural resource. ~ Herbert Hoover
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
