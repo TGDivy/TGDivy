@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Children are our greatest natural resource. ~ Herbert Hoover
+> By failing to prepare, you are preparing to fail. ~ Benjamin Franklin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
