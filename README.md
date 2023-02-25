@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> By failing to prepare, you are preparing to fail. ~ Benjamin Franklin
+> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. ~ Stephen King
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
