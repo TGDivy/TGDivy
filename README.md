@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. ~ Eckhart Tolle
+> A comfort zone is a beautiful place, but nothing ever grows there. ~ Unknown
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
