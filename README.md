@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> A comfort zone is a beautiful place, but nothing ever grows there. ~ Unknown
+> It's your life-but only if you make it so. ~ Eleanor Roosevelt
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
