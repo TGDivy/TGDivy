@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The pain of parting is nothing to the joy of meeting again. ~ Charles Dickens
+> It doesn't matter where you are coming from. All that matters is where you are going.  ~ Brian Tracy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
