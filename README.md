@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> It doesn't matter where you are coming from. All that matters is where you are going.  ~ Brian Tracy
+> You don't need a weatherman to know which way the wind blows. ~ Bob Dylan
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
