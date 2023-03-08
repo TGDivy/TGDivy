@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The world doesn't always give you want, but it often gives you what you need. ~ Naval Ravikant
+> Everything flows, nothing stands still. ~ Heraclitus
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
