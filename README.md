@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Everything flows, nothing stands still. ~ Heraclitus
+> You'll see it when you believe it.  ~ Wayne Dyer
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
