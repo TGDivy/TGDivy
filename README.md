@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You'll see it when you believe it.  ~ Wayne Dyer
+> We can spend our whole lives escaping from the monsters of our minds. ~ Pema Chodron
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
