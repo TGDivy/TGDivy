@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> We can spend our whole lives escaping from the monsters of our minds. ~ Pema Chodron
+> We cannot change anything unless we accept it. ~ Carl Jung
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
