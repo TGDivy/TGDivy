@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions. ~ Criss Jami
+> The best fighter is never angry. ~ Lao Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
