@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The best fighter is never angry. ~ Lao Tzu
+> Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations. ~ Alfred Adler
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
