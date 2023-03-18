@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Your happiness is what truly matters most. Do what you have to do in order to be happy. ~ Brian Tracy
+> Giving back involves a certain amount of giving up. ~ Colin Powell
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
