@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Giving back involves a certain amount of giving up. ~ Colin Powell
+> Be fascinated instead of frustrated. ~ Jim Rohn
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
