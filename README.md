@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be fascinated instead of frustrated. ~ Jim Rohn
+> Simple words, repeated daily, can change your life. ~ Maxime Lagace
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
