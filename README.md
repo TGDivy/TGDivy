@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Life is what you make it. Always has been, always will be. ~ Eleanor Roosevelt
+> Excellence is not an exception, it is a prevailing attitude. ~ Colin Powell
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
