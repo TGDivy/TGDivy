@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Excellence is not an exception, it is a prevailing attitude. ~ Colin Powell
+> You are now, and you do become, what you think about. ~ Earl Nightingale
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
