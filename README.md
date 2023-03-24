@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You are now, and you do become, what you think about. ~ Earl Nightingale
+> It's easier to lose than to win.   ~ Wayne Gretzky
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
