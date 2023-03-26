@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Everything you've ever wanted is on the other side of fear. ~ Brian Tracy
+> Write to help yourself, publish to help others. ~ Jack Butcher
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
