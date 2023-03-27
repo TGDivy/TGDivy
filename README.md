@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Write to help yourself, publish to help others. ~ Jack Butcher
+> Confidence is what you have before you understand the problem. ~ Woody Allen
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
