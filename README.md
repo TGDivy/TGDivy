@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Confidence is what you have before you understand the problem. ~ Woody Allen
+> Intense love does not measure, it just gives. ~ Mother Teresa
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
