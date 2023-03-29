@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Intense love does not measure, it just gives. ~ Mother Teresa
+> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. ~ Brian Tracy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
