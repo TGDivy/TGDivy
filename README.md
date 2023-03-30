@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. ~ Brian Tracy
+> Success is about creating value. ~ Candice Carpenter
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
