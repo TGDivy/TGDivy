@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Success is about creating value. ~ Candice Carpenter
+> I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in. ~ Virginia Woolf
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
