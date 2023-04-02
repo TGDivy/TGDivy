@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> It's not the men in your life that matters, it's the life in your men. ~ Mae West
+> If I can laugh, I can live. ~ Christopher Reeve
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
