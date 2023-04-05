@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Everybody needs a passion. That's what keeps life interesting. ~ Betty White
+> If you are going to achieve excellence in big things, you develop the habit in little matters. ~ Colin Powell
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
