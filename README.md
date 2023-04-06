@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> If you are going to achieve excellence in big things, you develop the habit in little matters. ~ Colin Powell
+> Don't wish it were easier, wish you were better. ~ Jim Rohn
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
