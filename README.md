@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Don't wish it were easier, wish you were better. ~ Jim Rohn
+> Your gift is something that you can do innately better than anything else. ~ Steve Harvey
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
