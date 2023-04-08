@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Your gift is something that you can do innately better than anything else. ~ Steve Harvey
+> It's OK to have your eggs in one basket as long as you control what happens to that basket. ~ Elon Musk
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
