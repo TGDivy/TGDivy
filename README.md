@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The greatest treasures are those invisible to the eye but found by the heart. ~ Judy Garland
+> He who wishes to be obeyed must know how to command. ~ Niccolo Machiavelli
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
