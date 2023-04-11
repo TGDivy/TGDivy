@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> He who wishes to be obeyed must know how to command. ~ Niccolo Machiavelli
+> I can live without money, but I cannot live without love. ~ Judy Garland
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
