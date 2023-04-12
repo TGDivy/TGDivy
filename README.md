@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> I can live without money, but I cannot live without love. ~ Judy Garland
+> Enjoy life. There's plenty of time to be dead. ~ Hans Christian Andersen
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
