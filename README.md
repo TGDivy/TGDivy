@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Enjoy life. There's plenty of time to be dead. ~ Hans Christian Andersen
+> A mistake is only an error, it becomes a mistake when you fail to correct it. ~ John Lennon
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
