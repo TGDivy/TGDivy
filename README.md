@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Truth is such a rare thing, it is delighted to tell it. ~ Emily Dickinson
+> Respect was invented to cover the empty place where love should be. ~ Leo Tolstoy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
