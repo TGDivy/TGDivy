@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Still your waters. ~ Josh Waitzkin
+> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. ~ Zig Ziglar
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
