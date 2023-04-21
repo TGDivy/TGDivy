@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Freedom lies in being bold. ~ Robert Frost
+> Your heart is the size of an ocean. Go find yourself in its hidden depths. ~ Rumi
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
