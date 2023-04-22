@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Your heart is the size of an ocean. Go find yourself in its hidden depths. ~ Rumi
+> When you judge another, you do not define them, you define yourself ~ Wayne Dyer
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
