@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> When you judge another, you do not define them, you define yourself ~ Wayne Dyer
+> The only reason to be alive is to enjoy it. ~ Rita Mae Brown
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
