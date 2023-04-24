@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The only reason to be alive is to enjoy it. ~ Rita Mae Brown
+> You can't get to a place that you don't believe exists. ~ Unknown
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
