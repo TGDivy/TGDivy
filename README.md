@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You can't get to a place that you don't believe exists. ~ Unknown
+> Even if you persuade me, you won't persuade me. ~ Aristophanes
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
