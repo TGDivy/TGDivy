@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> In the middle of difficulty lies opportunity. ~ Albert Einstein
+> I'm an optimist by choice not by stupidity. ~ Yanni
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
