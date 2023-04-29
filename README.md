@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Self-knowledge is the beginning of self-correction. ~ Norman Vincent Peale
+> Over time, loneliness gets inside you and doesn't go away. ~ Carlos Ruiz Zafon
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
