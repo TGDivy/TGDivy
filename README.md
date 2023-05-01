@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Those who cannot change their minds cannot change anything. ~ George Bernard Shaw
+> Duty makes us do things well, but love makes us do them beautifully.   ~ Zig Ziglar
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
