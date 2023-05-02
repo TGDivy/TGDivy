@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Duty makes us do things well, but love makes us do them beautifully.   ~ Zig Ziglar
+> Confidence is contagious. So is lack of confidence. ~ Vince Lombardi
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
