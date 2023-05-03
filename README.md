@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Confidence is contagious. So is lack of confidence. ~ Vince Lombardi
+> Your best life will not be found in comfort. It will be found in fighting for what you believe in. ~ Maxime Lagace
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
