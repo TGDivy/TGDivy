@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. ~ Sun Tzu
+> Throw your heart over the bar and your body will follow. ~ Norman Vincent Peale
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
