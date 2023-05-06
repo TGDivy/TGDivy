@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Throw your heart over the bar and your body will follow. ~ Norman Vincent Peale
+> If what you're doing is not your passion, you have nothing to lose. ~ Celestine Chua
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
