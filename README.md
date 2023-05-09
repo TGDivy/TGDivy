@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> 20 percent of your activities will account for 80 percent of your results. ~ Brian Tracy
+> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. ~ Zig Ziglar
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
