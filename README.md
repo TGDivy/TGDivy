@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. ~ Zig Ziglar
+> The majority of what you want will come from the minority of what you do. ~ Gary Keller
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
