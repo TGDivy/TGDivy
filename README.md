@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> People are doing the best that they can from their own level of consciousness. ~ Deepak Chopra
+> Amateurs sit and wait for inspiration, the rest of us just get up and got to work. ~ Stephen King
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
