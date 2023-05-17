@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> In youth we run into difficulties. In old age difficulties run into us.  ~ Beverly Sills
+> Sometimes you have to lose all you have to find out who you truly are. ~ Roy T. Bennett
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
