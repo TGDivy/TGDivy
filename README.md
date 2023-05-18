@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Sometimes you have to lose all you have to find out who you truly are. ~ Roy T. Bennett
+> Pleasure can be supported by an illusion; but happiness rests upon truth.  ~ Nicolas Chamfort
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
