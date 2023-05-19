@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Pleasure can be supported by an illusion; but happiness rests upon truth.  ~ Nicolas Chamfort
+> Nothing good ever comes of violence. ~ Martin Luther
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
