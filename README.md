@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Nothing good ever comes of violence. ~ Martin Luther
+> An investment in knowledge pays the best interest. ~ Benjamin Franklin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
