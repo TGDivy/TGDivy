@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Human beings believe just as they breathe - in order to survive. ~ Carlos Ruiz Zafon
+> Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. ~ Spencer Johnson
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
