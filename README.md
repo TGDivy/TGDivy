@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along.  ~ Paramahansa Yogananda
+> Be where your enemy is not. ~ Sun Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
