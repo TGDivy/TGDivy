@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be where your enemy is not. ~ Sun Tzu
+> Deliberately seek the company of people who influence you to think and act on building the life you desire. ~ Napoleon Hill
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
