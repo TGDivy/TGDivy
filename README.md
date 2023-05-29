@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> To some degree, you control your life by controlling your time. ~ Conrad Hilton
+> We forge the chains we wear in life. ~ Charles Dickens
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
