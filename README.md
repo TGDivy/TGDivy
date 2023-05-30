@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> We forge the chains we wear in life. ~ Charles Dickens
+> Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. ~ Harry S. Truman
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
