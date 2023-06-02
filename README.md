@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Time goes from present to past. ~ Shunryu Suzuki
+> Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. ~ Dogen
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
