@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Dreams are the touchstones of our characters. ~ Henry David Thoreau
+> Through selfless service, you will always be fruitful and find the fulfillment of your desires. ~ Bhagavad Gita
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
