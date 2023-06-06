@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> There are two things a person should never be angry at, what they can help, and what they cannot. ~ Plato
+> It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. ~ Ming-Dao Deng
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
