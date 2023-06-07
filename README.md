@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. ~ Ming-Dao Deng
+> Youth has no age. ~ Pablo Picasso
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
