@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> One is never afraid of the unknown; one is afraid of the known coming to an end. ~ Jiddu Krishnamurti
+> When you want to be honored by others, you learn to honor them first. ~ Sathya Sai Baba
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
