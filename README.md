@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Even in the grave, all is not lost. ~ Edgar Allan Poe
+> Debt is the slavery of the free. ~ Publilius Syrus
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
