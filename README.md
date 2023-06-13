@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Debt is the slavery of the free. ~ Publilius Syrus
+> Most people fail in life because they major in minor things. ~ Tony Robbins
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
