@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Most people fail in life because they major in minor things. ~ Tony Robbins
+> The key to success is action. ~ Brian Tracy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
