@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The key to success is action. ~ Brian Tracy
+> Little minds have little worries, big minds have no time for worries. ~ Ralph Waldo Emerson
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
