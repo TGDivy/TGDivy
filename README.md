@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Little minds have little worries, big minds have no time for worries. ~ Ralph Waldo Emerson
+> Facts are the enemy of truth.  ~ Miguel de Cervantes
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
