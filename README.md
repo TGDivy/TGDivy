@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Facts are the enemy of truth.  ~ Miguel de Cervantes
+> It's not what you pay a man, but what he costs you that counts. ~ Will Rogers
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
