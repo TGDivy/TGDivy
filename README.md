@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You can tell more about a person by what he says about others than you can by what others say about him. ~ Audrey Hepburn
+> A self that goes on changing is a self that goes on living. ~ Virginia Woolf
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
