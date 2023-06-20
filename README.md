@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> A self that goes on changing is a self that goes on living. ~ Virginia Woolf
+> Life happens in the river, not the shore. ~ Maxime Lagace
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
