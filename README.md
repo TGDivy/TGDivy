@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Life happens in the river, not the shore. ~ Maxime Lagace
+> In the middle of chaos lies opportunity.   ~ Bruce Lee
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
