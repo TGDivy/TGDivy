@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> In the middle of chaos lies opportunity.   ~ Bruce Lee
+> If you chase two rabbits, you catch none. ~ Confucius
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
