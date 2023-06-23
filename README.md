@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> If you chase two rabbits, you catch none. ~ Confucius
+> A person hears only what they understand. ~ Johann Wolfgang von Goethe
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
