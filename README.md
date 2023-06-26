@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Wheels of justice grind slow but grind fine. ~ Sun Tzu
+> Discontent is the first necessity of progress. ~ Thomas Edison
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
