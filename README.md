@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> For fast-acting relief try slowing down. ~ Lily Tomlin
+> Sadness is but a wall between two gardens. ~ Kahlil Gibran
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
