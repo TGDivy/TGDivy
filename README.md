@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. ~ Peter Drucker
+> Always focus on the front windshield and not the rear view mirror. ~ Colin Powell
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
