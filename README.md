@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Always focus on the front windshield and not the rear view mirror. ~ Colin Powell
+> Not all those who wander are lost. ~ J.R.R. Tolkien
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
