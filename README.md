@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Not all those who wander are lost. ~ J.R.R. Tolkien
+> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  ~ Charles Swindoll
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
