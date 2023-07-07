@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The longer we dwell on our misfortunes, the greater is their power to harm us. ~ Voltaire
+> Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! ~ Sathya Sai Baba
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
