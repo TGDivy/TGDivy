@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! ~ Sathya Sai Baba
+> Great things are not done by impulse, but by a series of small things brought together. ~ Vincent van Gogh
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
