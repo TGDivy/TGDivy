@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Troubles are often the tools by which God fashions us for better things. ~ Henry Ward Beecher
+> The whole is greater than the sum of its parts. ~ Aristotle
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
