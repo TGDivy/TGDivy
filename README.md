@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.   ~ Wayne Dyer
+> The destiny of man is in his own soul.  ~ Herodotus
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
