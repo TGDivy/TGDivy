@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Sometimes out of your biggest misery, comes your greatest gain. ~ Steve Harvey
+> You will succeed because most people are lazy. ~ Shahir Zag
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
