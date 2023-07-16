@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You will succeed because most people are lazy. ~ Shahir Zag
+> Well done is better than well said. ~ Benjamin Franklin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
