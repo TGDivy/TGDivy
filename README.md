@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Well done is better than well said. ~ Benjamin Franklin
+> Ponder and deliberate before you make a move. ~ Sun Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
