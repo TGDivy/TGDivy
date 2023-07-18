@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Ponder and deliberate before you make a move. ~ Sun Tzu
+> Better a diamond with a flaw than a pebble without one. ~ Chinese Proverb
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
