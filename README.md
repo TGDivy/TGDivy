@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Words used to attract the dull of wit are not to be relied on. ~ Huang Po
+> You're on earth. There's no cure for that. ~ Samuel Beckett
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
