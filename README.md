@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You're on earth. There's no cure for that. ~ Samuel Beckett
+> Everything eaten is killed. Every meal is a sacrifice. ~ Adi Da Samraj
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
