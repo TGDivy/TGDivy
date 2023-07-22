@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Everything eaten is killed. Every meal is a sacrifice. ~ Adi Da Samraj
+> Your work is to discover your work and then, with all your heart, to give yourself to it. ~ Buddha
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
