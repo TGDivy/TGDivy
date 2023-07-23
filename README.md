@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Your work is to discover your work and then, with all your heart, to give yourself to it. ~ Buddha
+> Originality is the fine art of remembering what you hear but forgetting where you heard it.  ~ Laurence J. Peter
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
