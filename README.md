@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> To every action there is always opposed an equal reaction. ~ Isaac Newton
+> Creativity is the greatest rebellion in existence. ~ Osho
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
