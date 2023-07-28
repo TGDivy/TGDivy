@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be the silent watcher of your thoughts and behavior. You are beneath the thinker. ~ Eckhart Tolle
+> Confidence comes from crossing thresholds. ~ Kamal Ravikant
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
