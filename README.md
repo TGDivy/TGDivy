@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Confidence comes from crossing thresholds. ~ Kamal Ravikant
+> What you do today can improve all your tomorrows. ~ Ralph Marston
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
