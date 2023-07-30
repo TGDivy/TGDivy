@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> What you do today can improve all your tomorrows. ~ Ralph Marston
+> Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  ~ Herodotus
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
