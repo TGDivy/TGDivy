@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. ~ Marcus Aurelius
+> How many times do you have to get hit over the head until you figure out who's hitting you? ~ Harry S. Truman
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
