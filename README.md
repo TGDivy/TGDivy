@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> How many times do you have to get hit over the head until you figure out who's hitting you? ~ Harry S. Truman
+> The only limits in your life are those that you set yourself. ~ Celestine Chua
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
