@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. ~ William Faulkner
+> Be yourself; everyone else is already taken. ~ Oscar Wilde
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
