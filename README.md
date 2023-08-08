@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be yourself; everyone else is already taken. ~ Oscar Wilde
+> Fishing is much more than fish. ~ Herbert Hoover
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
