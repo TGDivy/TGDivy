@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Fishing is much more than fish. ~ Herbert Hoover
+> Don't criticize what you can't understand.  ~ Bob Dylan
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
