@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Don't criticize what you can't understand.  ~ Bob Dylan
+> Management is doing things right; leadership is doing the right things. ~ Peter Drucker
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
