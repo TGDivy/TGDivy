@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Turn your face to the sun, as flowers know how to do. ~ Ming-Dao Deng
+> Some people feel the rain. Others just get wet.  ~ Bob Dylan
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
