@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Some people feel the rain. Others just get wet.  ~ Bob Dylan
+> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. ~ Richard Bach
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
