@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Happiness is an effect of doing what you love, not an end goal to be achieved. ~ Celestine Chua
+> It is not uncommon for people to spend their whole life waiting to start living. ~ Eckhart Tolle
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
