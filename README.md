@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You can avoid reality, but you cannot avoid the consequences of avoiding reality. ~ Ayn Rand
+> A man who cannot tolerate small misfortunes can never accomplish great things. ~ Chinese Proverb
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
