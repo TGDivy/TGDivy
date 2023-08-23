@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> A man who cannot tolerate small misfortunes can never accomplish great things. ~ Chinese Proverb
+> Do the hard jobs first. The easy jobs will take care of themselves. ~ Dale Carnegie
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
