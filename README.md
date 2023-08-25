@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference. ~ Robert Frost
+> The more we value things, the less we value ourselves.   ~ Bruce Lee
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
