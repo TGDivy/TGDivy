@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. ~ Celestine Chua
+> Keep your face to the sunshine and you cannot see the shadows. ~ Helen Keller
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
