@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Keep your face to the sunshine and you cannot see the shadows. ~ Helen Keller
+> Behind every beautiful thing, there's some kind of pain. ~ Bob Dylan
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
