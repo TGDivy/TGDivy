@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Behind every beautiful thing, there's some kind of pain. ~ Bob Dylan
+> Talent is luck. The important thing in life is courage. ~ Woody Allen
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
