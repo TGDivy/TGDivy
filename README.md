@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  ~ George Washington
+> There is always risk, so learn to manage risk instead of avoiding it. ~ Robert Kiyosaki
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
