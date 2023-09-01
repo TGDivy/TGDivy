@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> There is always risk, so learn to manage risk instead of avoiding it. ~ Robert Kiyosaki
+> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   ~ Estee Lauder
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
