@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   ~ Estee Lauder
+> The trouble with the rat race is that even if you win, you're still a rat. ~ Lily Tomlin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
