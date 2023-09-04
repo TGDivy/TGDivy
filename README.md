@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> To know even one life has breathed easier because you have lived. This is to have succeeded. ~ Ralph Waldo Emerson
+> Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. ~ Steve Harvey
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
