@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> One small positive thought can change your whole day. ~ Zig Ziglar
+> A gentleman accepts the responsibility of his actions and bears the burden of their consequences. ~ William Faulkner
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
