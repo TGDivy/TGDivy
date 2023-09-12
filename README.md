@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> A gentleman accepts the responsibility of his actions and bears the burden of their consequences. ~ William Faulkner
+> Don't try to steer the river. ~ Deepak Chopra
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
