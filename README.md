@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Don't try to steer the river. ~ Deepak Chopra
+> No problem can be solved from the same level of consciousness that created it. ~ Albert Einstein
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
