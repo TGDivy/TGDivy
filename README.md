@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> No problem can be solved from the same level of consciousness that created it. ~ Albert Einstein
+> It is not fair to ask of others what you are not willing to do yourself. ~ Eleanor Roosevelt
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
