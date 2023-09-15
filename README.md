@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> It is not fair to ask of others what you are not willing to do yourself. ~ Eleanor Roosevelt
+> Passion is energy. Feel the power that comes from focusing on what excites you.  ~ Oprah Winfrey
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
