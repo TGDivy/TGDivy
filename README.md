@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> I dream my painting and I paint my dream. ~ Vincent van Gogh
+> Success is getting what you want... Happiness is wanting what you get. ~ Dale Carnegie
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
