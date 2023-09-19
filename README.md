@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Success is getting what you want... Happiness is wanting what you get. ~ Dale Carnegie
+> If you are ever the smartest person in the room, you are in the wrong room. ~ C. Sean McGee
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
