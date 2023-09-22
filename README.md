@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Never whine, never complain, never try to justify yourself. ~ Robert Greene
+> There is no greatness where there is not simplicity, goodness, and truth. ~ Leo Tolstoy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
