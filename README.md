@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You must be willing to do what others won't do, to have what others won't have. ~ Les Brown
+> When you move beyond your fear, you feel free. ~ Spencer Johnson
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
