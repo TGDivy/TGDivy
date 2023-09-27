@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. ~ Lao Tzu
+> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. ~ Robert Greene
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
