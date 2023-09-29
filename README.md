@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> No man is free who is not master of himself. ~ Epictetus
+> Not everything that weighs you down is yours to carry. ~ Unknown
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
