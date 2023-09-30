@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Not everything that weighs you down is yours to carry. ~ Unknown
+> Judge a man by his questions rather than his answers. ~ Voltaire
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
