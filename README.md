@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Judge a man by his questions rather than his answers. ~ Voltaire
+> Don't let the past steal your present. ~ Cherralea Morgen
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
