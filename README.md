@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Don't let the past steal your present. ~ Cherralea Morgen
+> He that can have patience can have what he will. ~ Benjamin Franklin
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
