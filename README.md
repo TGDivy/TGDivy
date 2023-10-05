@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The opposite of courage in our society is not cowardice... it is conformity. ~ Earl Nightingale
+> The truth is not for all men, but for those who seek it. ~ Ayn Rand
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
