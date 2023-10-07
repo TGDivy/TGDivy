@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> I never dwell on what happened. You can't change it. Move forward. ~ Joan Rivers
+> Listen to the secret sound, the real sound, which is inside you. ~ Kabir
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
