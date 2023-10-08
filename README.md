@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Listen to the secret sound, the real sound, which is inside you. ~ Kabir
+> The eyes of others our prisons; their thoughts our cages. ~ Virginia Woolf
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
