@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The eyes of others our prisons; their thoughts our cages. ~ Virginia Woolf
+> There is nothing more frightful than ignorance in action. ~ Johann Wolfgang von Goethe
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
