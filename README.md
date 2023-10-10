@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> There is nothing more frightful than ignorance in action. ~ Johann Wolfgang von Goethe
+> The more reasons you have for achieving your goal, the more determined you will become. ~ Brian Tracy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
