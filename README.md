@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The more reasons you have for achieving your goal, the more determined you will become. ~ Brian Tracy
+> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh. ~ Pema Chodron
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
