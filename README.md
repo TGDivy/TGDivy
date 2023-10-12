@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh. ~ Pema Chodron
+> You must learn to let go. Release the stress. You were never in control anyway. ~ Steve Maraboli
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
