@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Life is trying things to see if they work. ~ Ray Bradbury
+> Desire is suffering. ~ Naval Ravikant
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
