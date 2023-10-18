@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Excellence is not a skill. It is an attitude.  ~ Ralph Marston
+> Forgive those who have hurt you. ~ Les Brown
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
