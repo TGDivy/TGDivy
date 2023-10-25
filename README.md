@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Greatest success comes just one step beyond the point at which defeat overtakes you. ~ Unknown
+> Love is the absence of judgment. ~ Dalai Lama
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
