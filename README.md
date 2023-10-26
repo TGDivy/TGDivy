@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Love is the absence of judgment. ~ Dalai Lama
+> Integrity is the ability to stand by an idea. ~ Ayn Rand
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
