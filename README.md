@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Integrity is the ability to stand by an idea. ~ Ayn Rand
+> One beam, no matter how big, cannot support an entire house on its own. ~ Chinese Proverb
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
