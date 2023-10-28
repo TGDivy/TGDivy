@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> One beam, no matter how big, cannot support an entire house on its own. ~ Chinese Proverb
+> There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. ~ G.I. Gurdjieff
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
