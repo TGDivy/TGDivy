@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. ~ G.I. Gurdjieff
+> We are always complaining that our days are few, and acting as though there would be no end of them.   ~ Seneca
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
