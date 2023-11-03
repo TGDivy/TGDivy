@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> A lie can travel half way around the world while the truth is putting on its shoes. ~ Mark Twain
+> The purpose of life is the life of purpose. ~ Robin Sharma
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
