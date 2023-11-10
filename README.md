@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> It is what we make out of what we have, not what we are given, that separates one person from another. ~ Nelson Mandela
+> The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. ~ Brian Tracy
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
