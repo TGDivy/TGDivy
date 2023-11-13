@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. ~ Kahlil Gibran
+> The best answer to anger is silence. ~ Marcus Aurelius
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
