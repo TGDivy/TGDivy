@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The best answer to anger is silence. ~ Marcus Aurelius
+> No man can get rich himself unless he enriches others. ~ Earl Nightingale
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
