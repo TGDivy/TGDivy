@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> No man can get rich himself unless he enriches others. ~ Earl Nightingale
+> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again. ~ Og Mandino
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
