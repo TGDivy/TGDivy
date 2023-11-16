@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again. ~ Og Mandino
+> Dream big. Start small. But most of all, start. ~ Simon Sinek
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
