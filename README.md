@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Passion creates, addiction consumes. ~ Gabor Mate
+> The opportunity of defeating the enemy is provided by the enemy himself. ~ Sun Tzu
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
