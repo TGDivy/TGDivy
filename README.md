@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The greatest weariness comes from work not done. ~ Eric Hoffer
+> The Truth is realized in an instant; the Act is practiced step by step. ~ Seungsahn
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
