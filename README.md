@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> The soul without imagination is what an observatory would be without a telescope. ~ Henry Ward Beecher
+> The way out is in. ~ Thich Nhat Hanh
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
