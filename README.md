@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> You are not the drop in the ocean, but the ocean in the drop. ~ Deepak Chopra
+> Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. ~ Steve Jobs
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
