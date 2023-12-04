@@ -8,7 +8,7 @@
 
 ## 💬🌞
 
-> Believe in one thing too much and you have no room for new ideas.   ~ Ray Bradbury
+> Problems remain as problems because people are busy defending them rather than finding solutions. ~ Celestine Chua
 
 Made *Using GitHub Actions Chron Job and* [Zen Quotes API]( https://zenquotes.io/ )
 
